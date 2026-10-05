@@ -1,3 +1,3 @@
-function purchase(money){
-    return money
+function purchase(totalAmount){
+    return totalAmount
 }
